@@ -1,7 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/link.html",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/test.yaml",
+        "url": "https://raw.githubusercontent.com/ashfaqulhaq/swagger/main/link.html",
         "name": "Foo"
     }]
 }
